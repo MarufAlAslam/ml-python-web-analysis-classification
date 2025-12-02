@@ -345,4 +345,3 @@ MSc Program - 2nd Semester
 - Random Forest Algorithm: Breiman, L. (2001). "Random Forests"
 - Web Analytics Best Practices
 - Machine Learning Classification Techniques
-# ml-python-web-analysis-classification
